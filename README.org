@@ -1,6 +1,0 @@
-* DWM-leandrus
-
-Configuración personal de DWM ([[http://dwm.suckless.org/][suckless]]), para fines personales, la cual incluye algunos patches.
-
-
-
